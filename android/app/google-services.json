@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "701296328582",
+    "firebase_url": "https://testproject-fb4b8-default-rtdb.firebaseio.com",
+    "project_id": "testproject-fb4b8",
+    "storage_bucket": "testproject-fb4b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701296328582:android:f44cdf5df7e678483bf607",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGyZThtMGT6jAkYnwvVbGtcG0QHEILwFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
